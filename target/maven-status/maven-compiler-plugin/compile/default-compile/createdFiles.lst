@@ -1,0 +1,9 @@
+Deposite\InvestmentDeposit.class
+Deposite\AccumulativeDeposit.class
+Comporators\CompareByCityComparator.class
+Bank\Bank.class
+Comporators\CompareByAccountNumComparator.class
+org\example\Main.class
+Person\Person.class
+PercentageCalculatingPackage\PercentageCalculating.class
+Deposite\ClassicDeposit.class
